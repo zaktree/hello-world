@@ -5,4 +5,6 @@ permalink: /page/
 ---
 
 
-this is stuff on another page
+this is stuff on a page
+
+## *STUFF*
