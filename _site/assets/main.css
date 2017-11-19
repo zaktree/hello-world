@@ -159,7 +159,7 @@ pre {
   border-bottom: 1px solid #e8e8e8;
   min-height: 55.95px;
   position: relative; 
-  avatar:
+  background-color: $brand-color;
 }
 
 .site-title {
